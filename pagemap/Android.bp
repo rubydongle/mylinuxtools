@@ -1,0 +1,12 @@
+
+//
+// Executable
+//
+
+cc_binary {
+    name: "pagemap",
+
+    srcs: [
+        "pagemap.c",
+    ],
+}
